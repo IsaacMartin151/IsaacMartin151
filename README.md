@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me               :     IsaacMartin151@gmail.com
 - 😄 Pronouns                      :     He/Him
 - ⚡ Fun fact                      :     Have a pet Beagle named Stella, hopefully a cat as well soon
+- Main mod page                    :     https://isaacmartin151.github.io/HunterXHunter/
 
