@@ -2,7 +2,7 @@
 
 <!--
 **IsaacMartin151/IsaacMartin151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on      :     Searching for jobs, Hunter X Hunter Mod
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me               :     IsaacMartin151@gmail.com
 - 😄 Pronouns                      :     He/Him
 - ⚡ Fun fact                      :     Have a pet Beagle named Stella, hopefully a cat as well soon
--->
+
